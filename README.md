@@ -2,7 +2,7 @@
 ### Hi there! 👋 I'm Sahil Chalkhure  
 
 - 🎓 MSc student in Data and Computational Science at University College Dublin.  
-- 💻 Skilled in Python, SQL, R, and JavaScript, with hands-on experience in frameworks like NumPy, Pandas, and Keras.  
+- 💻 Skilled in Python, SQL and R with hands-on experience in frameworks like NumPy, Pandas, and Keras.  
 - 👀 Passionate about data-driven solutions, machine learning, and innovative project development.  
 - 🌟 Key projects include a **Real-time Sign Language Interpreter** and a **Voice-based Email Assistant for the Visually Impaired**.  
 - 📊 Proficient in data visualization tools like Tableau, Power BI, and Matplotlib.  
